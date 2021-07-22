@@ -23,7 +23,7 @@ export default {
         { x: 1, y: 2, length: 7, question: 'Question text?' },
         { x: 9, y: 2, length: 2, question: 'Question text?' },
         { x: 3, y: 3, length: 8, question: 'Question text?' },
-        { x: 1, y: 4, length: 6, question: 'Question text?' },
+        { x: 1, y: 4, length: 6, question: 'test?' },
         { x: 8, y: 4, length: 3, question: 'Question text?' },
         { x: 3, y: 5, length: 5, question: 'Question text?' },
         { x: 1, y: 6, length: 6, question: 'Question text?' },
